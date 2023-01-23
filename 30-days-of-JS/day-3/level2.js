@@ -114,3 +114,31 @@ function canDrive(calculateAge) {
 canDrive(calculateAge);
 
 */
+
+// 14
+
+let yrsLived = parseInt(prompt("Enter number of years you live: "));
+console.log(`You lived ${yrsLived * 31536000} seconds!`);
+
+// 15
+
+const d = new Date();
+
+let mins = d.getMinutes();
+let hrs  = d.getHours();
+
+let year = d.getFullYear();
+let month = d.getMonth();
+let date = d.getDate();
+
+// Format 1
+
+console.log(`${year}-${month + 1}-${date} ${hrs}:${mins}`);
+
+// Format 2
+
+console.log(`${date}-${month+1}-${year} ${hrs}:${mins}`);
+
+// Format 3
+
+console.log(`${date}/${month+1}/${year} ${hrs}:${mins}`);
