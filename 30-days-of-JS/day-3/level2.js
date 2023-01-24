@@ -2,7 +2,6 @@
 
 // Task 1
 
-/* 
 
 let base = Number(prompt("Enter the base of your triangle"));
 let height = Number(prompt("Enter the height of your triangle"));
@@ -40,6 +39,7 @@ console.log("The circumference of your circle is", circleCircumference);
 
 
 // Task 5
+
 // Calculate the slope, x-intercept and y-intercept of y = 2x -2
 
 // Task 6 
@@ -113,7 +113,7 @@ function canDrive(calculateAge) {
 
 canDrive(calculateAge);
 
-*/
+
 
 // 14
 
