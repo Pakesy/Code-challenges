@@ -1,10 +1,12 @@
+/* Day 4 Level 1 Challenges */ 
+
+
 // Output
 
 const output = document.querySelector(".out");
 
-/* 
 
-Task 1
+// Task 1
 
 let yourAge = prompt("Enter your age:")
 
@@ -13,10 +15,6 @@ if (yourAge >= 18) {
 } else {
     output.textContent = `You are left with ${18 - yourAge} years until you can drive.`;
 }
-
-*/
-
-/* 
 
 Task 2
 
@@ -33,11 +31,8 @@ if (yourAge2 > myAge2) {
     output.textContent = `We are the same age.`;
 }
 
-*/
 
-/*
-
-Task 3i
+// Task 3i
 
 
 let a = prompt("Enter some A:")
@@ -53,7 +48,7 @@ if (a > b) {
 
 
 
-Task 3ii
+// Task 3ii
 
 let a = prompt("Enter some A:");
 let b = prompt("Enter some B:");
@@ -64,9 +59,9 @@ a == b ? output.textContent = "A and B are the same."
 
 */
 
-/* 
 
-Task 4
+
+// Task 4
 
 
 
@@ -77,7 +72,7 @@ console.log(number % 2);
 
 number % 2 ? output.textContent = `${number} is an odd number` : output.textContent = `${number} is an even number`;
 
-*/
+
 
 
 

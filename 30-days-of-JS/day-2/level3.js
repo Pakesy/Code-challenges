@@ -1,4 +1,4 @@
-/** Level 3 **/
+/* Day 2 Level 3 Challenges */ 
 
 // Task 1
 console.log("Task 1")

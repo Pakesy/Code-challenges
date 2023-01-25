@@ -1,6 +1,6 @@
-// Level 2
+/* Day 4 Level 2 Challenges */ 
 
-/* Task 1
+//  Task 1
 
 let grade = prompt("Enter your grade:");
 
@@ -18,12 +18,9 @@ if (grade >= 90 && grade <= 100) {
     output.textContent = `Please enter a score between 0-100.`;
 }
 
-*/
 
 
-/*
-
-Task 2
+// Task 2
 
 
 
@@ -42,11 +39,7 @@ if (month === "september" || month === "october" || month === "november") {
     output.textContent = `Please enter a valid month.`;
 }
 
-*/
-
-/*
-
-Task 3
+// Task 3
 
 let day = prompt("Day of the week:").toLowerCase();
 
@@ -83,5 +76,3 @@ switch(day) {
         break;
     
 }
-
-*/

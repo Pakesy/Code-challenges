@@ -1,4 +1,5 @@
-// Level 1
+/* Day 5 Level 1 Challenges */ 
+
 // Declare an empty array;
 
 let newArray = [];

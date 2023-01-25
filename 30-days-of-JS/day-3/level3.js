@@ -1,4 +1,4 @@
-/** Level 3 **/
+/* Day 3 Level 3 Challenges */ 
 
 // 1: create a human readable format for date
 const d = new Date();
