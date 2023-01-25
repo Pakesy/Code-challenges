@@ -1,3 +1,5 @@
+/* Day 6 Level 3 Challenges */ 
+
 const countriesLarge = [
     'Afghanistan',
     'Albania',
