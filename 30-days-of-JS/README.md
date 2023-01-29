@@ -10,7 +10,7 @@ Throughout 2022 I have embarked on a number of 30 day challenges, this will be m
 - [x] [Day #4](https://github.com/Pakesy/Code-challenges/tree/main/30-days-of-JS/day-4)
 - [x] [Day #5](https://github.com/Pakesy/Code-challenges/tree/main/30-days-of-JS/day-5)
 - [x] [Day #6](https://github.com/Pakesy/Code-challenges/tree/main/30-days-of-JS/day-6)
-- [ ] Day #7
+- [x] [Day #7](https://github.com/Pakesy/Code-challenges/tree/main/30-days-of-JS/day-7)
 - [ ] Day #8
 - [ ] Day #9
 - [ ] Day #10
